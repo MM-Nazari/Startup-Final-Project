@@ -5,7 +5,7 @@
 - [Contributors](#contributors)
 
 ## Project Description
-For a detailed Project description, please refer to the [Project Description PDF](./NV%20Homework%20-%20Comparison.pdf).
+For a detailed Project description, please refer to the [Project Description PDF](./NV%20Homework%20-%20Comparison.pdf). <br />
 The Project Report is in [Project Report](./comparison_intel_nvidia.pdf)
 
 ## Contributors
