@@ -1,4 +1,4 @@
-# Nvidia vs Intel
+# NVIDIA vs Intel
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -9,5 +9,5 @@ For a detailed Project description, please refer to the [Project Description PDF
 The Project Report is in [Project Report](./comparison_intel_nvidia.pdf)
 
 ## Contributors
-- [Armin Ebrahimi](https://github.com/omidghane)
-- [Mohammad Ali Moghimi](https://github.com/)
+- [Armin Ebrahimi](https://github.com/AESTheProgrammer)
+- Mohammad Ali Moghimi
